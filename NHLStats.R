@@ -237,7 +237,7 @@ ui <- fluidPage(
                "- The 2005 NHL season was cancelled due to a lockout, therefore there is no data reported for this season.",br(),
                "- The 2013 NHL season was shortened due to a lockout. This season was shortened to 48 games.",br(),
                "- The kaggle data set collected does not have any recorded data for hits or blocked shots until the 2008 season.", br(),
-               "- 'TOT' for team name in this data set represents players who have been traded through the duration of a season.
+               "- Team name 'TOT' in this data set represents players who have been traded through the duration of a season.
                These players' statistics are not accounted for in the team comparisson plot tab and they are not represented in the
                output comparing against their teammates for that season on the player statistics tab."
                
