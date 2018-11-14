@@ -138,7 +138,7 @@ Colors = c("ATL" = "steelblue2", "BOS" = "gold", "BUF" = "navyblue", "CAR" = "re
 #Creation of UI.
 ui <- fluidPage(
   #App Title ---
-  h1(headerPanel(div(strong("NHL Stats"), style="color: orange;"))),
+  h1(headerPanel(div(strong("NHL Team Statistics"), style="color: orange;"))),
   
   
   #Creating various tabs.
