@@ -1,14 +1,3 @@
-### Player data from 2004-2018.
-### Source: https://www.kaggle.com/xavya77/nhl04to18
-### Season standing data from 2004-2018.
-#Each seasons standing data was downloaded to a csv file, cleaned and combined using "StandingsClean.R" and selected columns to be used
-#in this program were selected and parsed creating a dataframe using "FinalStandingsData.R".
-### Source: https://www.hockey-reference.com/leagues/NHL_2018_standings.html
-
-##Data Notes:
-# NHL Lockout cancelled 2005 season.
-# NHL Lockout occurred during 2012-2013 season half a season was played.
-
 #Importing needed libraries.
 library(dplyr)
 library(Hmisc)
